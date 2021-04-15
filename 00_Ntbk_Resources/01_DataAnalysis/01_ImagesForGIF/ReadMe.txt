@@ -1,0 +1,1 @@
+Note: Only few samples (map images) are kept here for git repos.
