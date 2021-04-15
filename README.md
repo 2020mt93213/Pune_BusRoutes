@@ -236,13 +236,13 @@ Once we&#39;ve all the map images, we can combine them to form GIF for visualiza
 
 After clustering the bus stops based on Foursquare data, we can get the following map. (refer Figure 1)
 
-![](RackMultipart20210415-4-k9icge_html_4d42fd7bccaa4470.jpg)
+![](https://github.com/2020mt93213/Pune_BusRoutes/blob/main/01_Report/00_RAW_Data/1.JPG)
 
 _Figure 1 Map: clustering bus stops on the basis of Foursquare venue details_
 
 Let&#39;s try to understand clustering from the below line plot. (refer Figure 2)
 
-![](RackMultipart20210415-4-k9icge_html_339f8841d8af577e.jpg)
+![](https://github.com/2020mt93213/Pune_BusRoutes/blob/main/01_Report/00_RAW_Data/2.JPG)
 
 _Figure 2 Line plot: Understanding the bus stop clusters_
 
@@ -266,7 +266,7 @@ So, from the above observation and plot, we can say that:
 
 We also plotted the bar chart of the number of bus stops for each cluster. (refer Figure 3)
 
-![](RackMultipart20210415-4-k9icge_html_aa4afb7642ca597f.jpg)
+![](https://github.com/2020mt93213/Pune_BusRoutes/blob/main/01_Report/00_RAW_Data/3.JPG)
 
 _Figure 3 Bar plot: Understanding the bus stop clusters_
 
@@ -276,7 +276,7 @@ From the bar chart, we can say that bus service has a great network in for remot
 
 We can also plot bus frequency for different times of the day. (refer Figure 4)
 
-![](RackMultipart20210415-4-k9icge_html_54d025a8e578fe20.jpg)
+![](https://github.com/2020mt93213/Pune_BusRoutes/blob/main/01_Report/00_RAW_Data/5.JPG)
 
 _Figure 4 Bus service frequency during whole day_
 
@@ -298,7 +298,7 @@ Software settings are:
 - Frame size: 500 x 251 px
 - Loop: Infinite
 
-![](RackMultipart20210415-4-k9icge_html_b64016ae7a833f41.png)
+![](https://github.com/2020mt93213/Pune_BusRoutes/blob/main/00_Ntbk_Resources/01_DataAnalysis/02_Final_GIF/BusesInMotion_20190802.gif)
 
 _Figure 5 Screen grab of bus service frequency visualization for whole day_
 
